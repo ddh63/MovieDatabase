@@ -1,0 +1,39 @@
+body {
+	padding: 60px;
+}
+
+.override-bs-form {
+	max-width: 300px !important;
+	margin: 0 auto !important;
+	padding-top: 15px !important;
+}
+
+.pad {
+	padding-top: 20px;
+}
+
+.pagination {
+	float: right;
+}
+
+.rating h3,
+.rating h1 {
+	margin: 0;
+}
+
+.rate-menu {
+	display: inline-block;
+	width: 75px;
+}
+
+.rate-text {
+	display: inline-block !important;
+}
+
+.edit {
+	margin-bottom: 0;
+}
+
+.searchhide {
+	display: none;
+}
